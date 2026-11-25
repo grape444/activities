@@ -1,17 +1,1 @@
-🏆 activities
-
-공모전·해커톤 기록. 각 활동마다 내가 맡은 역할, 내가 한 일, 하지 않은 일을 구분해 기록합니다.
-
-🥇 수상
-날짜	대회	결과	내 역할	기록
-2026.11.21	2026 서울AI디지털배움터 청년 AI 해커톤 (서울특별시 · 서울AI재단)	대상	데이터 · AI 채점 신뢰도 검증	바로가기
-📝 참여 (비수상)
-날짜	대회	내 역할	기록
-2026.10.08 ~ 11.16	제1회 AFPK 영 플래너 챌린지 2026 (AI 재무설계 콘테스트)	데이터 분석·보고서 (계산 기준 검증, 앱 구조 설계)	바로가기
-
-🗂 폴더 구조
-activities/
-├── awards/                         # 수상
-│   └── 2026-seoul-ai-youth-hackathon/
-└── participation/                  # 비수상
-    └── 2026-afpk-young-planner-challenge/
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb86c,50:f4a7c9,100:b48ef0&height=170&section=header&text=Activities&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=%EA%B3%B5%EB%AA%A8%EC%A0%84%20%C2%B7%20%ED%95%B4%EC%BB%A4%ED%86%A4%20%EA%B8%B0%EB%A1%9D&descAlignY=60&descSize=16" width="100%"/></p> <p align="center">각 활동마다 <b>내가 맡은 역할</b> · <b>내가 한 일</b> · <b>하지 않은 일</b>을 구분해 기록합니다.</p> <p align="center"> <img src="https://img.shields.io/badge/%EC%88%98%EC%83%81-1-FFD700?style=for-the-badge"/> <img src="https://img.shields.io/badge/%EC%B0%B8%EC%97%AC-1-b48ef0?style=for-the-badge"/> </p> <br> <h2>🥇 수상</h2> <table> <tr> <td align="center" width="140"> <img src="https://img.shields.io/badge/%F0%9F%8F%86%20%EB%8C%80%EC%83%81-FFD700?style=for-the-badge"/><br> <sub>2026.11.21</sub> </td> <td> <b><a href="./awards/2026-seoul-ai-youth-hackathon">2026 서울AI디지털배움터 청년 AI 해커톤</a></b><br> <sub>서울특별시 · 서울AI재단 · 팀 취뽀 · 서비스 「하루출근」</sub><br><br> <b>역할</b> 데이터 · AI 채점 신뢰도 검증<br> <img src="https://img.shields.io/badge/MAE-1.09%EC%A0%90-7aa2f7?style=flat-square"/> <img src="https://img.shields.io/badge/%ED%8C%90%EC%A0%95%20%EC%9D%BC%EC%B9%98-95.4%25-73d0c0?style=flat-square"/> <img src="https://img.shields.io/badge/weighted%20%CE%BA-0.962-b48ef0?style=flat-square"/> <img src="https://img.shields.io/badge/pandas%20%C2%B7%20sklearn-150458?style=flat-square"/> </td> <td align="center" width="90"><a href="./awards/2026-seoul-ai-youth-hackathon"><b>기록 보기 →</b></a></td> </tr> </table> <br> <h2>📝 참여</h2> <table> <tr> <td align="center" width="140"> <img src="https://img.shields.io/badge/%EC%A0%9C%EC%B6%9C%20%EC%99%84%EB%A3%8C-b48ef0?style=for-the-badge"/><br> <sub>2026.10.08 ~ 11.16</sub><br> <sub>결과 12.07 발표</sub> </td> <td> <b><a href="./participation/2026-afpk-young-planner-challenge">제1회 AFPK 영 플래너 챌린지 2026</a></b><br> <sub>AI 재무설계 콘테스트 · 4인 팀 · 가상 고객(먹방 유튜버)</sub><br><br> <b>역할</b> 데이터 분석 · 보고서 (계산 기준 검증, 앱 구조 설계)<br> <img src="https://img.shields.io/badge/%ED%94%BC%EB%93%9C%EB%B0%B1-14%ED%95%AD%EB%AA%A9-f4a7c9?style=flat-square"/> <img src="https://img.shields.io/badge/%EB%B3%B4%EA%B3%A0%EC%84%9C-11%EC%AA%BD-ffb86c?style=flat-square"/> <img src="https://img.shields.io/badge/Streamlit%20%C2%B7%20Pyomo-FF4B4B?style=flat-square"/> </td> <td align="center" width="90"><a href="./participation/2026-afpk-young-planner-challenge"><b>기록 보기 →</b></a></td> </tr> </table> <br> <h2>🗂 폴더 구조</h2> <table> <tr><td>📁 <b>awards/</b></td><td>수상</td></tr> <tr><td>　└ 📁 2026-seoul-ai-youth-hackathon/</td><td>서울 청년 AI 해커톤 · 대상</td></tr> <tr><td>📁 <b>participation/</b></td><td>참여</td></tr> <tr><td>　└ 📁 2026-afpk-young-planner-challenge/</td><td>AFPK 영 플래너 챌린지</td></tr> </table> <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:b48ef0,50:f4a7c9,100:ffb86c&height=90&section=footer" width="100%"/></p>
