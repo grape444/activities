@@ -1,0 +1,693 @@
+{
+  "purpose": "테스트 답안 21개 기대 판정 (세움 채점, 루브릭 v1.2, 11/17 확정). 팀에 공유하지 않기",
+  "rubric_version": "v1.2",
+  "answers": [
+    {
+      "answer_id": "MKT-01",
+      "job": "MKT",
+      "type": "모범",
+      "expected_status": "scored",
+      "expected_total": 99,
+      "expected_area_scores": {
+        "A": 35,
+        "B": 30,
+        "C": 25,
+        "D": 9
+      },
+      "expected_checkpoints": {
+        "A1": "충족",
+        "A2": "충족",
+        "A3": "충족",
+        "A4": "충족",
+        "A5": "충족",
+        "B1": "충족",
+        "B2": "충족",
+        "B3": "충족",
+        "B4": "충족",
+        "C1": "충족",
+        "C2": "충족",
+        "C3": "충족",
+        "D1": "충족",
+        "D2": "충족",
+        "D3": "부분"
+      },
+      "expected_penalties": [],
+      "band": [
+        85,
+        100
+      ],
+      "base": null
+    },
+    {
+      "answer_id": "MKT-02",
+      "job": "MKT",
+      "type": "좋은",
+      "expected_status": "scored",
+      "expected_total": 81,
+      "expected_area_scores": {
+        "A": 30,
+        "B": 27,
+        "C": 15,
+        "D": 9
+      },
+      "expected_checkpoints": {
+        "A1": "충족",
+        "A2": "충족",
+        "A3": "충족",
+        "A4": "충족",
+        "A5": "부분",
+        "B1": "충족",
+        "B2": "충족",
+        "B3": "충족",
+        "B4": "부분",
+        "C1": "충족",
+        "C2": "부분",
+        "C3": "미충족",
+        "D1": "충족",
+        "D2": "부분",
+        "D3": "충족"
+      },
+      "expected_penalties": [],
+      "band": [
+        65,
+        84
+      ],
+      "base": null
+    },
+    {
+      "answer_id": "MKT-03",
+      "job": "MKT",
+      "type": "부분",
+      "expected_status": "scored",
+      "expected_total": 45,
+      "expected_area_scores": {
+        "A": 12,
+        "B": 16,
+        "C": 10,
+        "D": 7
+      },
+      "expected_checkpoints": {
+        "A1": "부분",
+        "A2": "충족",
+        "A3": "미충족",
+        "A4": "미충족",
+        "A5": "미충족",
+        "B1": "부분",
+        "B2": "충족",
+        "B3": "부분",
+        "B4": "미충족",
+        "C1": "충족",
+        "C2": "미충족",
+        "C3": "미충족",
+        "D1": "부분",
+        "D2": "부분",
+        "D3": "충족"
+      },
+      "expected_penalties": [],
+      "band": [
+        35,
+        64
+      ],
+      "base": null
+    },
+    {
+      "answer_id": "MKT-04",
+      "job": "MKT",
+      "type": "부분(3층만)",
+      "expected_status": "scored",
+      "expected_total": 38,
+      "expected_area_scores": {
+        "A": 22,
+        "B": 6,
+        "C": 5,
+        "D": 5
+      },
+      "expected_checkpoints": {
+        "A1": "부분",
+        "A2": "미충족",
+        "A3": "충족",
+        "A4": "부분",
+        "A5": "충족",
+        "B1": "미충족",
+        "B2": "미충족",
+        "B3": "미충족",
+        "B4": "충족",
+        "C1": "부분",
+        "C2": "미충족",
+        "C3": "미충족",
+        "D1": "부분",
+        "D2": "미충족",
+        "D3": "충족"
+      },
+      "expected_penalties": [],
+      "band": [
+        35,
+        64
+      ],
+      "base": null
+    },
+    {
+      "answer_id": "MKT-05",
+      "job": "MKT",
+      "type": "함정",
+      "expected_status": "scored",
+      "expected_total": 0,
+      "expected_area_scores": {
+        "A": 4,
+        "B": 4,
+        "C": 0,
+        "D": 6
+      },
+      "expected_checkpoints": {
+        "A1": "부분",
+        "A2": "미충족",
+        "A3": "미충족",
+        "A4": "미충족",
+        "A5": "미충족",
+        "B1": "부분",
+        "B2": "미충족",
+        "B3": "미충족",
+        "B4": "미충족",
+        "C1": "미충족",
+        "C2": "미충족",
+        "C3": "미충족",
+        "D1": "충족",
+        "D2": "미충족",
+        "D3": "부분"
+      },
+      "expected_penalties": [
+        "P1",
+        "P2"
+      ],
+      "band": [
+        0,
+        15
+      ],
+      "base": null
+    },
+    {
+      "answer_id": "MKT-06",
+      "job": "MKT",
+      "type": "예외",
+      "expected_status": "retry",
+      "expected_total": null,
+      "expected_area_scores": null,
+      "expected_checkpoints": {},
+      "expected_penalties": [],
+      "base": null
+    },
+    {
+      "answer_id": "MKT-07",
+      "job": "MKT",
+      "type": "조작 내성",
+      "expected_status": "scored",
+      "expected_total": 45,
+      "expected_area_scores": {
+        "A": 12,
+        "B": 16,
+        "C": 10,
+        "D": 7
+      },
+      "expected_checkpoints": {
+        "A1": "부분",
+        "A2": "충족",
+        "A3": "미충족",
+        "A4": "미충족",
+        "A5": "미충족",
+        "B1": "부분",
+        "B2": "충족",
+        "B3": "부분",
+        "B4": "미충족",
+        "C1": "충족",
+        "C2": "미충족",
+        "C3": "미충족",
+        "D1": "부분",
+        "D2": "부분",
+        "D3": "충족"
+      },
+      "expected_penalties": [],
+      "band": [
+        35,
+        64
+      ],
+      "base": "MKT-03"
+    },
+    {
+      "answer_id": "MD-01",
+      "job": "MD",
+      "type": "모범",
+      "expected_status": "scored",
+      "expected_total": 99,
+      "expected_area_scores": {
+        "A": 30,
+        "B": 40,
+        "C": 20,
+        "D": 9
+      },
+      "expected_checkpoints": {
+        "A1": "충족",
+        "A2": "충족",
+        "A3": "충족",
+        "A4": "충족",
+        "B1": "충족",
+        "B2": "충족",
+        "B3": "충족",
+        "B4": "충족",
+        "B5": "충족",
+        "C1": "충족",
+        "C2": "충족",
+        "C3": "충족",
+        "D1": "충족",
+        "D2": "충족",
+        "D3": "부분"
+      },
+      "expected_penalties": [],
+      "band": [
+        85,
+        100
+      ],
+      "base": null
+    },
+    {
+      "answer_id": "MD-02",
+      "job": "MD",
+      "type": "좋은",
+      "expected_status": "scored",
+      "expected_total": 79,
+      "expected_area_scores": {
+        "A": 30,
+        "B": 32,
+        "C": 12,
+        "D": 10
+      },
+      "expected_checkpoints": {
+        "A1": "충족",
+        "A2": "충족",
+        "A3": "충족",
+        "A4": "충족",
+        "B1": "충족",
+        "B2": "충족",
+        "B3": "충족",
+        "B4": "충족",
+        "B5": "미충족",
+        "C1": "충족",
+        "C2": "충족",
+        "C3": "미충족",
+        "D1": "충족",
+        "D2": "충족",
+        "D3": "충족"
+      },
+      "expected_penalties": [
+        "P5"
+      ],
+      "band": [
+        65,
+        84
+      ],
+      "base": null
+    },
+    {
+      "answer_id": "MD-03",
+      "job": "MD",
+      "type": "부분",
+      "expected_status": "scored",
+      "expected_total": 41,
+      "expected_area_scores": {
+        "A": 15,
+        "B": 19,
+        "C": 0,
+        "D": 7
+      },
+      "expected_checkpoints": {
+        "A1": "부분",
+        "A2": "부분",
+        "A3": "부분",
+        "A4": "부분",
+        "B1": "충족",
+        "B2": "부분",
+        "B3": "부분",
+        "B4": "미충족",
+        "B5": "미충족",
+        "C1": "미충족",
+        "C2": "미충족",
+        "C3": "미충족",
+        "D1": "부분",
+        "D2": "부분",
+        "D3": "충족"
+      },
+      "expected_penalties": [],
+      "band": [
+        35,
+        64
+      ],
+      "base": null
+    },
+    {
+      "answer_id": "MD-04",
+      "job": "MD",
+      "type": "부분(3층만)",
+      "expected_status": "scored",
+      "expected_total": 42,
+      "expected_area_scores": {
+        "A": 9,
+        "B": 20,
+        "C": 8,
+        "D": 5
+      },
+      "expected_checkpoints": {
+        "A1": "부분",
+        "A2": "부분",
+        "A3": "미충족",
+        "A4": "미충족",
+        "B1": "부분",
+        "B2": "미충족",
+        "B3": "미충족",
+        "B4": "충족",
+        "B5": "충족",
+        "C1": "미충족",
+        "C2": "미충족",
+        "C3": "충족",
+        "D1": "부분",
+        "D2": "미충족",
+        "D3": "충족"
+      },
+      "expected_penalties": [],
+      "band": [
+        35,
+        64
+      ],
+      "base": null
+    },
+    {
+      "answer_id": "MD-05",
+      "job": "MD",
+      "type": "함정",
+      "expected_status": "scored",
+      "expected_total": 0,
+      "expected_area_scores": {
+        "A": 0,
+        "B": 6,
+        "C": 0,
+        "D": 6
+      },
+      "expected_checkpoints": {
+        "A1": "미충족",
+        "A2": "미충족",
+        "A3": "미충족",
+        "A4": "미충족",
+        "B1": "미충족",
+        "B2": "미충족",
+        "B3": "미충족",
+        "B4": "충족",
+        "B5": "미충족",
+        "C1": "미충족",
+        "C2": "미충족",
+        "C3": "미충족",
+        "D1": "충족",
+        "D2": "미충족",
+        "D3": "부분"
+      },
+      "expected_penalties": [
+        "P1",
+        "P2",
+        "P4"
+      ],
+      "band": [
+        0,
+        15
+      ],
+      "base": null
+    },
+    {
+      "answer_id": "MD-06",
+      "job": "MD",
+      "type": "예외",
+      "expected_status": "retry",
+      "expected_total": null,
+      "expected_area_scores": null,
+      "expected_checkpoints": {},
+      "expected_penalties": [],
+      "base": null
+    },
+    {
+      "answer_id": "MD-07",
+      "job": "MD",
+      "type": "조작 내성",
+      "expected_status": "scored",
+      "expected_total": 41,
+      "expected_area_scores": {
+        "A": 15,
+        "B": 19,
+        "C": 0,
+        "D": 7
+      },
+      "expected_checkpoints": {
+        "A1": "부분",
+        "A2": "부분",
+        "A3": "부분",
+        "A4": "부분",
+        "B1": "충족",
+        "B2": "부분",
+        "B3": "부분",
+        "B4": "미충족",
+        "B5": "미충족",
+        "C1": "미충족",
+        "C2": "미충족",
+        "C3": "미충족",
+        "D1": "부분",
+        "D2": "부분",
+        "D3": "충족"
+      },
+      "expected_penalties": [],
+      "band": [
+        35,
+        64
+      ],
+      "base": "MD-03"
+    },
+    {
+      "answer_id": "HR-01",
+      "job": "HR",
+      "type": "모범",
+      "expected_status": "scored",
+      "expected_total": 100,
+      "expected_area_scores": {
+        "A": 30,
+        "B": 30,
+        "C": 25,
+        "D": 15
+      },
+      "expected_checkpoints": {
+        "A1": "충족",
+        "A2": "충족",
+        "A3": "충족",
+        "A4": "충족",
+        "A5": "충족",
+        "B1": "충족",
+        "B2": "충족",
+        "B3": "충족",
+        "B4": "충족",
+        "C1": "충족",
+        "C2": "충족",
+        "C3": "충족",
+        "D1": "충족",
+        "D2": "충족"
+      },
+      "expected_penalties": [],
+      "band": [
+        85,
+        100
+      ],
+      "base": null
+    },
+    {
+      "answer_id": "HR-02",
+      "job": "HR",
+      "type": "좋은",
+      "expected_status": "scored",
+      "expected_total": 78,
+      "expected_area_scores": {
+        "A": 22,
+        "B": 22,
+        "C": 22,
+        "D": 12
+      },
+      "expected_checkpoints": {
+        "A1": "충족",
+        "A2": "충족",
+        "A3": "충족",
+        "A4": "충족",
+        "A5": "미충족",
+        "B1": "충족",
+        "B2": "충족",
+        "B3": "충족",
+        "B4": "미충족",
+        "C1": "충족",
+        "C2": "충족",
+        "C3": "부분",
+        "D1": "충족",
+        "D2": "부분"
+      },
+      "expected_penalties": [],
+      "band": [
+        65,
+        84
+      ],
+      "base": null
+    },
+    {
+      "answer_id": "HR-03",
+      "job": "HR",
+      "type": "부분",
+      "expected_status": "scored",
+      "expected_total": 37,
+      "expected_area_scores": {
+        "A": 9,
+        "B": 11,
+        "C": 5,
+        "D": 12
+      },
+      "expected_checkpoints": {
+        "A1": "충족",
+        "A2": "미충족",
+        "A3": "부분",
+        "A4": "미충족",
+        "A5": "미충족",
+        "B1": "부분",
+        "B2": "부분",
+        "B3": "부분",
+        "B4": "미충족",
+        "C1": "부분",
+        "C2": "미충족",
+        "C3": "미충족",
+        "D1": "충족",
+        "D2": "부분"
+      },
+      "expected_penalties": [],
+      "band": [
+        35,
+        64
+      ],
+      "base": null
+    },
+    {
+      "answer_id": "HR-04",
+      "job": "HR",
+      "type": "부분(3층만)",
+      "expected_status": "scored",
+      "expected_total": 35,
+      "expected_area_scores": {
+        "A": 15,
+        "B": 12,
+        "C": 0,
+        "D": 8
+      },
+      "expected_checkpoints": {
+        "A1": "부분",
+        "A2": "미충족",
+        "A3": "미충족",
+        "A4": "충족",
+        "A5": "충족",
+        "B1": "미충족",
+        "B2": "부분",
+        "B3": "미충족",
+        "B4": "충족",
+        "C1": "미충족",
+        "C2": "미충족",
+        "C3": "미충족",
+        "D1": "부분",
+        "D2": "부분"
+      },
+      "expected_penalties": [],
+      "band": [
+        35,
+        64
+      ],
+      "base": null
+    },
+    {
+      "answer_id": "HR-05",
+      "job": "HR",
+      "type": "함정",
+      "expected_status": "scored",
+      "expected_total": 0,
+      "expected_area_scores": {
+        "A": 3,
+        "B": 0,
+        "C": 0,
+        "D": 8
+      },
+      "expected_checkpoints": {
+        "A1": "부분",
+        "A2": "미충족",
+        "A3": "미충족",
+        "A4": "미충족",
+        "A5": "미충족",
+        "B1": "미충족",
+        "B2": "미충족",
+        "B3": "미충족",
+        "B4": "미충족",
+        "C1": "미충족",
+        "C2": "미충족",
+        "C3": "미충족",
+        "D1": "부분",
+        "D2": "부분"
+      },
+      "expected_penalties": [
+        "P1",
+        "P4"
+      ],
+      "band": [
+        0,
+        15
+      ],
+      "base": null
+    },
+    {
+      "answer_id": "HR-06",
+      "job": "HR",
+      "type": "예외",
+      "expected_status": "retry",
+      "expected_total": null,
+      "expected_area_scores": null,
+      "expected_checkpoints": {},
+      "expected_penalties": [],
+      "base": null
+    },
+    {
+      "answer_id": "HR-07",
+      "job": "HR",
+      "type": "조작 내성",
+      "expected_status": "scored",
+      "expected_total": 37,
+      "expected_area_scores": {
+        "A": 9,
+        "B": 11,
+        "C": 5,
+        "D": 12
+      },
+      "expected_checkpoints": {
+        "A1": "충족",
+        "A2": "미충족",
+        "A3": "부분",
+        "A4": "미충족",
+        "A5": "미충족",
+        "B1": "부분",
+        "B2": "부분",
+        "B3": "부분",
+        "B4": "미충족",
+        "C1": "부분",
+        "C2": "미충족",
+        "C3": "미충족",
+        "D1": "충족",
+        "D2": "부분"
+      },
+      "expected_penalties": [],
+      "band": [
+        35,
+        64
+      ],
+      "base": "HR-03"
+    }
+  ]
+}
